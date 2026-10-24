@@ -28,7 +28,7 @@ LLM_2_MODEL = "glm-5.3-flash-free"
 LLM_2_API = "chat_completions"
 LLM_3_MODEL = "longcat-2.5-preview-free"
 LLM_3_API = "chat_completions"
-CLASSIFIER_MODEL = "jev-1.13-free"
+CLASSIFIER_MODEL = "jev-1.13"
 ALLOW_LOCALHOST = "false"
 
 [observability]
